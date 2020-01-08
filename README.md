@@ -1,3 +1,10 @@
+Pandas Homework - Pandas, Pandas, Pandas
+
+Option 1: Heroes of Pymoli
+
+Written description of three observable trends based on the data
+
+
 1.- The Male gender purchases more than Female gender. Purchase Count column shows us that fact, Male 652,Female 113; however, when we look at the Avg Total Purchase per Person then we notice Female gender buys little bit more expensive games or Optional Items: Male: $4.07 and Female: $4.47
 
 2.- Age Demographics Stats:   
